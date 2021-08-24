@@ -2,7 +2,7 @@
 #define __PacMan__H__
 
 
-#define WINDOW_TITLE "AntoGame v1.0"
+#define WINDOW_TITLE "Frugivor v1.0"
 #define WINDOW_WIDTH  512
 #define WINDOW_HEIGTH 600
 #define ANTO_FRAMES 12
