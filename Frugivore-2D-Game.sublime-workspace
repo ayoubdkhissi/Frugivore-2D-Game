@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"SDL_Texture"
+			],
+			[
+				"won",
+				"won_test"
+			],
+			[
+				"Mix_Fre",
+				"Mix_FreeChunk"
+			],
+			[
+				"sou",
+				"sounds"
+			],
+			[
+				"game",
+				"gameover"
+			],
+			[
+				"MON",
+				"MONS_NUM"
+			],
+			[
+				"MONS",
+				"MONS_WIDTH"
+			],
+			[
+				"you",
+				"you_wonRect"
+			],
+			[
+				"WINDO",
+				"WINDOW_HEIGTH"
+			],
+			[
+				"score",
+				"score_number"
+			],
+			[
+				"number",
+				"score_numberRect"
+			],
+			[
+				"eat",
+				"eat_SE"
+			],
+			[
+				"fruit",
+				"fruit_eaten"
+			],
+			[
+				"frui",
+				"fruit_eaten"
+			],
+			[
+				"frut",
+				"fruit_eaten"
+			],
+			[
+				"e",
+				"Eat"
+			],
+			[
+				"mons_",
+				"mons_y"
+			],
+			[
+				"mons",
+				"mons_y"
+			],
+			[
+				"n",
+				"NULL"
+			],
+			[
+				"mon",
+				"mons_facing_left"
+			],
+			[
+				"timer",
+				"timer2"
+			],
+			[
+				"HOR",
+				"HOR_BARIER_HEIGTH"
+			],
+			[
+				"ANTO",
+				"ANTO_HEIGTH"
+			],
+			[
+				"barrel",
+				"barrel_y"
+			],
+			[
+				"barre",
+				"BARREL_HEIGTH"
+			],
+			[
+				"bar",
+				"barrel_y"
+			],
+			[
+				"BARRE",
+				"BARREL_NUM"
+			],
+			[
+				"WIN",
+				"WINDOW_WIDTH"
+			],
+			[
+				"WOODS",
+				"WOODS3_WIDTH"
+			],
+			[
+				"woods",
+				"woods9_x"
+			],
+			[
+				"woods3",
+				"woods3_x"
+			],
+			[
+				"woods_3",
+				"woods3_x"
+			],
+			[
+				"woods3_",
+				"woods3_x"
+			],
+			[
+				"WOO",
+				"WOODS3_NUM"
+			],
+			[
+				"WOOD",
+				"WOODS3_HEIGTH"
+			],
+			[
+				"window",
+				"WINDOW_HEIGTH"
+			],
+			[
+				"WOODS9",
+				"WOODS9_HEIGTH"
+			],
+			[
+				"WIND",
+				"WINDOW_HEIGTH"
+			],
+			[
+				"I",
+				"i"
+			],
+			[
+				"WOODS3",
+				"WOODS3_NUM"
+			],
+			[
+				"rock",
+				"rock_texture"
+			],
+			[
+				"SDL_Render",
+				"SDL_RenderCopy"
+			],
+			[
+				"SDL_De",
+				"SDL_DestroyTexture"
+			],
+			[
+				"WINDOW",
+				"WINDOW_WIDTH"
+			],
+			[
+				"Hor",
+				"HOR_BARIER_HEIGTH"
+			],
+			[
+				"HOR_",
+				"HOR_BARIER_HEIGTH"
+			],
+			[
+				"hor",
+				"hor_barier_texture"
+			],
+			[
+				"G",
+				"GROUND_WIDTH"
+			],
+			[
+				"GROU",
+				"GROUND_HEIGTH"
+			],
+			[
+				"SDL_Re",
+				"SDL_Rect"
+			],
+			[
+				"g",
+				"ground"
+			],
+			[
+				"exit",
+				"EXIT_FAILURE"
+			],
+			[
+				"SDL_R",
+				"SDL_RenderCopy"
+			],
+			[
+				"SDL",
+				"SDL_Event"
+			],
+			[
+				"key",
+				"keysym"
+			],
+			[
+				"faing",
+				"facing_up"
+			],
+			[
+				"facing",
+				"facing_left"
+			],
+			[
+				"fa",
+				"frames"
+			],
+			[
+				"Anto",
+				"AntoFront1"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"DE",
+				"define"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"in",
+				"include"
+			]
+		]
+	},
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"init",
+				"git: init"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Agent-47/Desktop/AntoGame/AntoGame.sublime-project",
+		"/C/Users/Agent-47/Desktop/AntoGame/include/AntoGame.h",
+		"/C/Users/Agent-47/Desktop/AntoGame/src/AntoGame.c",
+		"/C/Users/Agent-47/Desktop/AntoGame/src/main.c",
+		"/E/Ayoub/Projects/C Projects/AntoGame/AntoGame.sublime-project",
+		"/C/Users/Agent-47/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/home/agent-007/Desktop/AntoGame/src/main.c",
+		"/home/agent-007/Desktop/AntoGame/include/AntoGame.h",
+		"/home/agent-007/Desktop/AntoGame/src/AntoGame.c",
+		"/home/agent-007/.config/sublime-text-3/Packages/Default/exec.py",
+		"/home/agent-007/Desktop/AntoGame/AntoGame.sublime-project",
+		"/home/agent-077/Desktop/AntoGame/src/main.c",
+		"/home/agent-077/Desktop/AntoGame/include/AntoGame.h",
+		"/home/agent-077/Desktop/AntoGame/src/AntoGame.c",
+		"/home/agent-077/Desktop/AntoGame/res/ground&stuff/mons0.png",
+		"/home/agent-077/Desktop/AntoGame/TO DO!",
+		"/home/agent-077/Desktop/PacMan/src/AntoGame.c",
+		"/home/agent-077/Desktop/PacMan/include/AntoGame.h",
+		"/home/agent-077/Desktop/PacMan/src/main.c",
+		"/home/agent-077/Desktop/PacMan/res/ground&stuff/woods.png",
+		"/home/agent-077/Desktop/PacMan/TO DO!",
+		"/home/agent-077/Desktop/PacMan/include/PacMan.h",
+		"/home/agent-077/Desktop/PacMan/src/PacMan.c",
+		"/home/agent-077/Desktop/PacMan/src/TO DO!",
+		"/home/agent-077/Desktop/PacMan/PacMan.sublime-project",
+		"/home/agent-077/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/home/agent-077/Desktop/PacMan/include/main.h",
+		"/home/agent-077/Desktop/PacMan/src/main",
+		"/home/ayoub_dkhissi/Desktop/Moving Car v1.1.0/Moving Car v1.1.0.sublime-project",
+		"/home/ayoub_dkhissi/.config/sublime-text-3/Packages/Default/exec.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gray",
+			"eaten_num",
+			"draw mons",
+			"draw frui",
+			"    \n",
+			"Barier",
+			"barier"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 127.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
