@@ -2,25 +2,23 @@
   "folders":
   [
     {
-      "path": "bin/..",
-      "file_exclude_patterns": ["*.sublime-project"]
+      "path": "bin/.."
     }
   ],
-
   "build_systems":
   [
     {
-      "name": "Build Debug",
+      "name": "Debug",
       "working_dir": "${project_path}",
-      "cmd": "gcc -c src/*.c  -g -Wall -m64 -I include -I C:/SDL2-w64/include && gcc *.o -o bin/debug/main -L C:/SDL2-w64/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image && start bin/debug/main",
-      "selector": "source.c++",
+      "cmd": ["gcc -c src/*.c -m64 -g -W -Wall -I include && gcc *.o -o bin/debug/main -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf && ./bin/debug/main"],
+      "selector": "source.c",
       "shell": true
     },
     {
-      "name": "Build Release",
+      "name": "release",
       "working_dir": "${project_path}",
-      "cmd": "g++ -c src/*.cpp -std=c++14 -O3 -Wall -m64 -I include -I C:/SDL2-w64/include && g++ *.o -o bin/release/main -s -L C:/SDL2-w64/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image && start bin/release/main",
-      "selector": "source.c++",
+      "cmd": ["gcc -c src/*.c -m64 -O3 -W -Wall -I include && gcc *.o -o bin/release/main -s -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf && ./bin/release/main"],
+      "selector": "source.c",
       "shell": true
     }
   ]

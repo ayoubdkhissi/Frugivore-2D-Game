@@ -11,7 +11,10 @@ Run the following commands
 
 • Sublime text editor : install from here https://www.sublimetext.com/docs/linux_repositories.html
 
-• gcc C Compiler : ``` sudo apt install gcc ```
+• gcc C Compiler : 
+```sh
+ sudo apt install gcc 
+ ```
 
 • [SDL2][SDL] library + SDL_image + SDL_ttf + SDL_mixer
 

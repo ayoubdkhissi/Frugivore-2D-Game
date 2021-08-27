@@ -301,6 +301,34 @@
 		"selected_items":
 		[
 			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"sta",
+				"git: status"
+			],
+			[
+				"rem",
+				"git: remote add"
+			],
+			[
+				"ini",
+				"git: init"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"remo",
+				"git: remote add"
+			],
+			[
+				"inti",
+				"git: init"
+			],
+			[
 				"init",
 				"git: init"
 			],
@@ -353,6 +381,10 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Agent-47/Documents/Projects/Frugivore-2D-Game/src/README.md",
+		"/C/Users/Agent-47/Documents/Projects/Frugivore-2D-Game/src/main.c",
+		"/C/Users/Agent-47/Documents/Projects/Frugivore-2D-Game/include/Frugivor.h",
+		"/C/Users/Agent-47/Documents/Projects/Frugivore-2D-Game/src/Frugivor.c",
 		"/C/Users/Agent-47/Desktop/AntoGame/AntoGame.sublime-project",
 		"/C/Users/Agent-47/Desktop/AntoGame/include/AntoGame.h",
 		"/C/Users/Agent-47/Desktop/AntoGame/src/AntoGame.c",
@@ -386,7 +418,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 42.4
 	},
 	"find_in_files":
 	{
@@ -453,6 +485,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 138.0
+	},
 	"output.Terminus":
 	{
 		"height": 127.0
@@ -468,6 +504,10 @@
 	"output.mdpopups":
 	{
 		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 138.0
 	},
 	"pinned_build_system": "Packages/Python/Python.sublime-build",
 	"replace":
